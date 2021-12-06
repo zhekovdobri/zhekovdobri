@@ -5,7 +5,7 @@
 I'm Dobri from Norway, and I do content on Design and Development. I really enjoy learning new languages and frameworks, as well work in Wordpress. My favorite IDE is VSC.
 I also enjoy working with Photoshop, UI, UX and design in general. 
 
-### Languages and Tools:
+## Skills and Experience:
 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
 <img align="left" alt="CSS3" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b9d0459777128ad0b677ca93fa4e567cde950e5c/css-icon.png">
