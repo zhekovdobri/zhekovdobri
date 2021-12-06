@@ -8,7 +8,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 Skills: HTML / CSS / BOOTSTRAP / JS / JQERY UI / REACT / PHP / MYSQL / UX / PHOTOSHOP / WORDPRESS
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
