@@ -13,6 +13,7 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQERY UI / REACT / PHP / MYSQL / UX / PHOT
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/65e9b2dd7c471fb822301241018b5074c7ebec3c/javascript-icon.png" >
 <img align="left" alt="Sass" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/bceec05efb29d8aeb9d30c0e5f179baf531fce14/bootstrap_icon.png">
 <img align="left" alt="Sass" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/cf686bf85c9de30996d6f1035c1294be417907e6/php-icon.png">
+<img align="left" alt="Sass" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/d6d462389383e2fb0a44212011d40b6fa8c7abaf/jqueryUI_icon_ps.png">
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/bb1ecb580f0a0a1cd37cd94d8fb6808ef2a8462b/mysql-icon.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/zhekovdobri/zhekovdobri/blob/af8949a6a7ee53486e25939069f482f465c50b96/VSC_icon.png">
 <img align="left" alt="CSS3" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/99db7366baf03a057965ad21d65315e5dc99cc2c/photoshop-icon.png">
