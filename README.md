@@ -34,19 +34,10 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <!-- [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.theoldestgold.com) -->
 
-  
-<br />
-<br />
 
----
 
-## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+
 
 
 
