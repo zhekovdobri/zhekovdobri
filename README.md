@@ -20,7 +20,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <br>
 
-### Connect with me:
+### Connect:
 
 [<img align="left" src='https://github.com/zhekovdobri/zhekovdobri/blob/c9c8fceb4a6361ec5802b7523fdb8fb69eed769f/GitHub-Mark-Light-32px.png' alt='github' height='26'>](https://github.com/zhekovdobri)  
 
