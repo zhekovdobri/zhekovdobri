@@ -5,7 +5,6 @@
 I'm Dobri from Norway, and I do content on Design and Development. I really enjoy learning new languages and frameworks, as well work in Wordpress. My favorite IDE is VSC.
 I also enjoy working with Photoshop, UI, UX and design in general. 
 
-Skills: HTML / CSS / BOOTSTRAP / JS / JQERY UI / REACT / PHP / MYSQL / UX / PHOTOSHOP / WORDPRESS
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
@@ -43,7 +42,7 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQERY UI / REACT / PHP / MYSQL / UX / PHOT
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first course: 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
