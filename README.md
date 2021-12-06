@@ -2,6 +2,7 @@
 #### Design and Development
 ![Design and Development](https://github.com/zhekovdobri/zhekovdobri/blob/ee9926246e11562aeb8e7299f0ddb3ddb80dcf23/GitHub_ReadMe_Logo2_.gif)
 
+# Dobri Zhekov
 I'm Dobri from Norway, and I do content on Design and Development. I really enjoy learning new languages and frameworks, as well work in Wordpress. My favorite IDE is VSC.
 I also enjoy working with Photoshop, UI, UX and design in general. 
 
