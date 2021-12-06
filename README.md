@@ -31,7 +31,7 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQERY UI / REACT / PHP / MYSQL / UX / PHOT
 
 [<img align="left" align="left" src='instagram-32.ico' alt='instagram' height='40'>](https://www.instagram.com/zhekovdobri/) 
 
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zhekovdobri)  
+[<img align="left" src='https://github.com/zhekovdobri/zhekovdobri/blob/062d3d2e625fc15d07866a3fbba2bc66b961b3a3/twitter-3-32.ico' alt='twitter' height='40'>](https://twitter.com/zhekovdobri)  
 
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.theoldestgold.com)  
 
