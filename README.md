@@ -21,8 +21,8 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQERY UI / REACT / PHP / MYSQL / UX / PHOT
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <br />
+<br />
 ---
-
 ### Connect with me:
 
 [<img align="left" src='https://github.com/zhekovdobri/zhekovdobri/blob/c9c8fceb4a6361ec5802b7523fdb8fb69eed769f/GitHub-Mark-Light-32px.png' alt='github' height='26'>](https://github.com/zhekovdobri)  
