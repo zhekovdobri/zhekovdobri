@@ -29,7 +29,7 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQERY UI / REACT / PHP / MYSQL / UX / PHOT
 
 [<img align="left" src='facebook-3-32.ico' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/dobri.zhekov.9/)
 
-[<img align="left" align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zhekovdobri/) 
+[<img align="left" align="left" src='instagram-32.ico' alt='instagram' height='40'>](https://www.instagram.com/zhekovdobri/) 
 
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zhekovdobri)  
 
