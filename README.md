@@ -6,7 +6,10 @@
 I'm full stack web developer who work and live in Norway. I do content on Design and Development as well work in Wordpress. My favorite IDE is VSC.
 I also enjoy working with Photoshop, UI, UX and design in general. 
 
-### Skills and Experience 
+<br> 
+<br>
+
+## Skills and Experience 
 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
 <img align="left" alt="CSS3" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b9d0459777128ad0b677ca93fa4e567cde950e5c/css-icon.png">
@@ -18,23 +21,6 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/zhekovdobri/zhekovdobri/blob/af8949a6a7ee53486e25939069f482f465c50b96/VSC_icon.png">
 <img align="left" alt="CSS3" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/99db7366baf03a057965ad21d65315e5dc99cc2c/photoshop-icon.png">
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/ea8d6e29cac2053573cc17bbdbd56892f96ec18b/wordpress-icon.png" >
-
-<br>
-<br>
-
-### Connect 
-
-[<img align="left" src='https://github.com/zhekovdobri/zhekovdobri/blob/c9c8fceb4a6361ec5802b7523fdb8fb69eed769f/GitHub-Mark-Light-32px.png' alt='github' height='26'>](https://github.com/zhekovdobri)  
-
-[<img align="left" src='https://github.com/zhekovdobri/zhekovdobri/blob/0b9e3fa6a2a8613a43eea42c5a5274fced3c15a0/Linkedin_gitHub_Icon.png' alt='linkedin' height='26'>](https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B9b%2FI5K2%2BT6CCvXOaWi0URA%3D%3D/)
-
-[<img align="left" src='facebook-3-32.ico' alt='facebook' height='26'>](https://www.facebook.com/https://www.facebook.com/dobri.zhekov.9/)
-
-[<img align="left" align="left" src='instagram-32.ico' alt='instagram' height='26'>](https://www.instagram.com/zhekovdobri/) 
-
-[<img align="left" src='https://github.com/zhekovdobri/zhekovdobri/blob/062d3d2e625fc15d07866a3fbba2bc66b961b3a3/twitter-3-32.ico' alt='twitter' height='26'>](https://twitter.com/zhekovdobri)  
-
-<!-- [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.theoldestgold.com) -->
 
 <br>
 <br>
