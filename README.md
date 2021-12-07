@@ -6,7 +6,6 @@
 I'm full stack web developer who work and live in Norway. I do content on Design and Development as well work in Wordpress. My favorite IDE is VSC.
 I also enjoy working with Photoshop, UI, UX and design in general. 
 
-<br> 
 <br>
 
 ## Skills and Experience 
@@ -23,7 +22,6 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/ea8d6e29cac2053573cc17bbdbd56892f96ec18b/wordpress-icon.png" >
 
 <br>
-<br>
 
 ## Connect 
 
@@ -39,7 +37,6 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <!-- [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.theoldestgold.com) -->
 
-<br>
 <br>
 
 ## Projects preview
