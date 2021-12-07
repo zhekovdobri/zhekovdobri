@@ -37,7 +37,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 ## Projects preview
 
 <img align="left" alt="HTML5" width="480px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
-<img align="left" alt="HTML5" width="498px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
+<img align="right" alt="HTML5" width="498px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 
 
 
