@@ -19,6 +19,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/ea8d6e29cac2053573cc17bbdbd56892f96ec18b/wordpress-icon.png" >
 
 <br>
+<br>
 
 ### Connect 
 
@@ -34,7 +35,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <!-- [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.theoldestgold.com) -->
 
-<br>
+<br />
 
 ## Projects preview
 
@@ -42,12 +43,12 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="right" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 
 <br> 
----
+
 <img align="left" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 <img align="right" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 
 
-***
+
 
 
 
