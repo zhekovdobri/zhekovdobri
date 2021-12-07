@@ -5,7 +5,7 @@
 I'm full stack web developer who work and live in Norway. I do content on Design and Development as well work in Wordpress. My favorite IDE is VSC.
 I also enjoy working with Photoshop, UI, UX and design in general. 
 
-## Skills and Experience :
+## Skills and Experience 
 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
 <img align="left" alt="CSS3" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b9d0459777128ad0b677ca93fa4e567cde950e5c/css-icon.png">
@@ -20,7 +20,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <br>
 
-### Connect :
+### Connect 
 
 [<img align="left" src='https://github.com/zhekovdobri/zhekovdobri/blob/c9c8fceb4a6361ec5802b7523fdb8fb69eed769f/GitHub-Mark-Light-32px.png' alt='github' height='26'>](https://github.com/zhekovdobri)  
 
@@ -40,8 +40,12 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <img align="left" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 <img align="right" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
+<br>
+##
 <img align="left" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 <img align="right" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
+<br>
+##
 
 
 
