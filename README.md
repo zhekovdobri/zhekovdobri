@@ -6,7 +6,6 @@ I'm full stack web developer who work and live in Norway. I do content on Design
 I also enjoy working with Photoshop, UI, UX and design in general. 
 
 ## Skills and Experience 
-
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
 <img align="left" alt="CSS3" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b9d0459777128ad0b677ca93fa4e567cde950e5c/css-icon.png">
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/65e9b2dd7c471fb822301241018b5074c7ebec3c/javascript-icon.png" >
@@ -21,8 +20,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <br>
 <br>
 
-### Connect 
-
+## Connect 
 [<img align="left" src='https://github.com/zhekovdobri/zhekovdobri/blob/c9c8fceb4a6361ec5802b7523fdb8fb69eed769f/GitHub-Mark-Light-32px.png' alt='github' height='26'>](https://github.com/zhekovdobri)  
 
 [<img align="left" src='https://github.com/zhekovdobri/zhekovdobri/blob/0b9e3fa6a2a8613a43eea42c5a5274fced3c15a0/Linkedin_gitHub_Icon.png' alt='linkedin' height='26'>](https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B9b%2FI5K2%2BT6CCvXOaWi0URA%3D%3D/)
@@ -38,11 +36,11 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <br />
 
 ### Projects preview
-
 <img align="left" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 <img align="right" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 
 <br> 
+<br>
 
 <img align="left" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 <img align="right" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
