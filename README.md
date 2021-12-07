@@ -2,8 +2,12 @@
 ![Design and Development](https://github.com/zhekovdobri/zhekovdobri/blob/ee9926246e11562aeb8e7299f0ddb3ddb80dcf23/GitHub_ReadMe_Logo2_.gif)
 
 # Dobri Zhekov
+
 I'm full stack web developer who work and live in Norway. I do content on Design and Development as well work in Wordpress. My favorite IDE is VSC.
 I also enjoy working with Photoshop, UI, UX and design in general. 
+
+<br> 
+<br>
 
 ## Skills and Experience 
 
@@ -21,7 +25,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <br>
 <br>
 
-### Connect 
+## Connect 
 
 [<img align="left" src='https://github.com/zhekovdobri/zhekovdobri/blob/c9c8fceb4a6361ec5802b7523fdb8fb69eed769f/GitHub-Mark-Light-32px.png' alt='github' height='26'>](https://github.com/zhekovdobri)  
 
@@ -35,14 +39,16 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <!-- [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.theoldestgold.com) -->
 
-<br />
+<br>
+<br>
 
 ## Projects preview
 
 <img align="left" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 <img align="right" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 
-<br> 
+<br>
+<br>
 
 <img align="left" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 <img align="right" alt="HTML5" width="485px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
