@@ -37,14 +37,14 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <br>
 
 ## Projects preview
-<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
-<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/8f4db15c1d769caadbd065a04c1e26538953ec9a/HTMLCSSFashion_Project_preview.gif">
+<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/BootstrapFashion_Project_preview_1200px.gif">
+<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/HTMLCSSFashion_Project_preview_1200px.gif">
 
 <br> 
 <br>
 
-<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/6ac12e455f1e5ce2ce9edd891518ed9781039461/LandingPage_Form_Project_preview.gif">
-<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/a5f6037c833650a8e7c7d8fb8e62c60390e5097b/LandingPage_Business_preview.gif">
+<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/LandingPage_Form_Project_preview_1200px.gif">
+<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/e3d1cf5c48a5a6da3fb6a1b1b7b70e4bae2f9169/LandingPage_Business_preview_1200px.gif">
 
 <br>
 <br>
