@@ -44,7 +44,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <br>
 
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/6ac12e455f1e5ce2ce9edd891518ed9781039461/LandingPage_Form_Project_preview.gif">
-<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
+<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/a5f6037c833650a8e7c7d8fb8e62c60390e5097b/LandingPage_Business_preview.gif">
 
 <br>
 <br>
