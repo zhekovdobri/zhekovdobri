@@ -1,5 +1,5 @@
 #### Design and Development
-![Design and Development](https://github.com/zhekovdobri/zhekovdobri/blob/ee9926246e11562aeb8e7299f0ddb3ddb80dcf23/GitHub_ReadMe_Logo2_.gif)
+![Design and Development](https://github.com/zhekovdobri/zhekovdobri/blob/76c06a6ab2ca415e4237b6a41538ce5be077daf8/New_Logo1.png)
 
 # Dobri Zhekov
 I'm full stack web developer who work and live in Norway. I do content on Design and Development as well work in Wordpress. My favorite IDE is VSC.
