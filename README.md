@@ -49,12 +49,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <br>
 <br>
 
-<br>
-<br>
-
 <details>
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;See more previews</a>    
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;<ins>See more previews</ins></a>    
 </summary>
 
 <br>
