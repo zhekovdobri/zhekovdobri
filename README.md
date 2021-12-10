@@ -18,6 +18,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/ea8d6e29cac2053573cc17bbdbd56892f96ec18b/wordpress-icon.png" >
 
 <br>
+fhgfjgiuguiguiguiuguhgg
 <br>
 
 ## Connect 
