@@ -2,7 +2,7 @@
 ![Design and Development](https://github.com/zhekovdobri/zhekovdobri/blob/76c06a6ab2ca415e4237b6a41538ce5be077daf8/New_Logo1.png)
 
 # Dobri Zhekov
-I'm full stack web developer who work and live in Norway. I do content on Design and Development as well work in Wordpress. My favorite IDE is VSC.
+I'm full stack web developer who work and live in Norway. I do content on Design and Development as well work with Wordpress. My favorite IDE is VSC.
 I also enjoy working with Photoshop, UI, UX and design in general. 
 
 ## Skills and Experience 
