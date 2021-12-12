@@ -57,12 +57,15 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;<ins>See more previews</ins></a>    
 </summary>
  
+<br />
+<br />
+
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/a44fd0080de4f091dc4ed6daadbc0a0672d7a020/CSS3Animation_GitHub_GIF_1200px.gif">
 <img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/03240a87fcfef0dad6584ff57259a47d5faf8600/TheOldestGold_Prject_preview_1200.gif">
-
+ 
 [<ins>Check the whole project</ins>](https://zhekovdobri.github.io/CSS3Transition_Birds_animation/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the whole project</ins>](https://theoldestgold.com/)
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/CSS3Transition_Birds_animation/)
 
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
 <img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/377288533b71693911ecd9bab72efa3fec8b9edb/BootstrapFashion_Project_preview.gif">
