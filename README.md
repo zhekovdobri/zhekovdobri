@@ -61,9 +61,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
  
 <br /> 
  
-[![Check the whole project](https://github.com/zhekovdobri/zhekovdobri/blob/a44fd0080de4f091dc4ed6daadbc0a0672d7a020/CSS3Animation_GitHub_GIF_1200px.gif =x400)](https://zhekovdobri.github.io/CSS3Transition_Birds_animation)
+[![Check the whole project](https://github.com/zhekovdobri/zhekovdobri/blob/a44fd0080de4f091dc4ed6daadbc0a0672d7a020/CSS3Animation_GitHub_GIF_1200px.gif){width="400px"}](https://zhekovdobri.github.io/CSS3Transition_Birds_animation)
 
-[![Check the whole project](https://github.com/zhekovdobri/zhekovdobri/blob/a44fd0080de4f091dc4ed6daadbc0a0672d7a020/CSS3Animation_GitHub_GIF_1200px.gif =x400)](https://zhekovdobri.github.io/LandingPage_Fashion_HTML5CSS3/)
+[![Check the whole project](https://github.com/zhekovdobri/zhekovdobri/blob/a44fd0080de4f091dc4ed6daadbc0a0672d7a020/CSS3Animation_GitHub_GIF_1200px.gif){width="400px"}](https://zhekovdobri.github.io/LandingPage_Fashion_HTML5CSS3/)
  
  
 
