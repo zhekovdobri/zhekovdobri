@@ -40,9 +40,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/BootstrapFashion_Project_preview_1200px.gif">
 <img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/HTMLCSSFashion_Project_preview_1200px.gif">
 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Forms_HTML5CSS3/)
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Fashion_Bootstrap/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Business_HTML5CSS3/)
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Fashion_HTML5CSS3/)
 
 <br />
 
@@ -58,9 +58,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <br />
 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Fashion_Bootstrap/)
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Forms_HTML5CSS3/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Fashion_HTML5CSS3/) 
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Business_HTML5CSS3/) 
  
 <br />
  
@@ -76,10 +76,13 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <br />
  
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/4dca0863cb26f68d997100effbd174e39ca9c076/CSS3Animation_GitHub_GIF_1200px.gif">
- 
+<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/d51670c3a3aa076354c156dd8976027f68cc3eaf/1.png">
+
 <br />
  
 [<ins>Check the whole project</ins>](https://zhekovdobri.github.io/CSS3Transition_Birds_animation/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[COMING SOON!](#)
 
 </details>
  
