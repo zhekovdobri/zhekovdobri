@@ -62,11 +62,12 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <br /> 
  
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/a44fd0080de4f091dc4ed6daadbc0a0672d7a020/CSS3Animation_GitHub_GIF_1200px.gif">
-<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/03240a87fcfef0dad6584ff57259a47d5faf8600/TheOldestGold_Prject_preview_1200.gif">
-<br />
 <a href="https://zhekovdobri.github.io/CSS3Transition_Birds_animation/"><ins>Check the whole project</ins></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://theoldestgold.com/"><ins>Check the whole project</ins></a>
+<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/03240a87fcfef0dad6584ff57259a47d5faf8600/TheOldestGold_Prject_preview_1200.gif">
+
+
  
 </details>
 
