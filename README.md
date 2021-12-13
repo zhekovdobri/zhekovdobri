@@ -64,9 +64,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/a44fd0080de4f091dc4ed6daadbc0a0672d7a020/CSS3Animation_GitHub_GIF_1200px.gif">
 <img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/03240a87fcfef0dad6584ff57259a47d5faf8600/TheOldestGold_Prject_preview_1200.gif">
 
-<a href="https://zhekovdobri.github.io/CSS3Transition_Birds_animation/"><u>Check the whole project</u></a>
+<a align="left" href="https://zhekovdobri.github.io/CSS3Transition_Birds_animation/"><u>Check the whole project</u></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://theoldestgold.com/"><u>Check the whole project</u></a>
+<a align="right" href="https://theoldestgold.com/"><u>Check the whole project</u></a>
  
 </details>
 
