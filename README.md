@@ -64,14 +64,22 @@ I also enjoy working with Photoshop, UI, UX and design in general.
  
 <br />
  
-<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/LandingPage_Form_Project_preview_1200px.gif"> 
-<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/e3d1cf5c48a5a6da3fb6a1b1b7b70e4bae2f9169/LandingPage_Business_preview_1200px.gif">
+<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/4dca0863cb26f68d997100effbd174e39ca9c076/TheOldestGold_Prject_preview_1200.gif"> 
+<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/4dca0863cb26f68d997100effbd174e39ca9c076/Alexandragloss_Project_preview_1200px.gif">
 
 <br />
 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Fashion_Bootstrap/)
+[<ins>Check the whole project</ins>](https://theoldestgold.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Fashion_HTML5CSS3/)
+[<ins>Check the whole project</ins>](https://alexandragloss.wordpress.com/)
+ 
+<br />
+ 
+<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/4dca0863cb26f68d997100effbd174e39ca9c076/CSS3Animation_GitHub_GIF_1200px.gif">
+ 
+<br />
+ 
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/CSS3Transition_Birds_animation/)
 
 </details>
  
