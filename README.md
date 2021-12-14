@@ -40,9 +40,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/BootstrapFashion_Project_preview_1200px.gif">
 <img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/HTMLCSSFashion_Project_preview_1200px.gif">
 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Fashion_Bootstrap/)
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/Homepage_Fashion/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Fashion_HTML5CSS3/)
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/Homepage_Fragrance/)
 
 <br />
 
@@ -58,9 +58,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <br />
 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Forms_HTML5CSS3/)
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/Single_page_application/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/LandingPage_Business_HTML5CSS3/) 
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/Homepage_Business/) 
  
 <br />
  
@@ -79,7 +79,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <br />
 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/CSS3Transition_Birds_animation/)
+[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/CSS3_animation/)
  
 </details>
  
