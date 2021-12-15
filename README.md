@@ -40,9 +40,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/BootstrapFashion_Project_preview_1200px.gif">
 <img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/HTMLCSSFashion_Project_preview_1200px.gif">
 
-[Button with more space](http://example.com/){: .btn .btn-green .mr-4 }
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the whole project</ins>](https://zhekovdobri.github.io/Homepage_Fragrance/)
+[<img alt="HTML5" width="160px" src="https://github.com/zhekovdobri/zhekovdobri/blob/36f83a211b7e9e420edb720be0b163fc6b026aec/Button_ReadME.png">](https://zhekovdobri.github.io/Homepage_Fashion/)
+
+[<img alt="HTML5" width="160px" src="https://github.com/zhekovdobri/zhekovdobri/blob/36f83a211b7e9e420edb720be0b163fc6b026aec/Button_ReadME.png">](https://zhekovdobri.github.io/Homepage_Fashion/)
 
 <br />
 
