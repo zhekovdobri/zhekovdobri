@@ -42,9 +42,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <br />
 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Homepage_Fashion/)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Fashion/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Homepage_Fragrance/)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Fragrance/)
 
 <br />
 
@@ -60,9 +60,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <br />
 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Single_page_application/)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Application_Form/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Homepage_Business/) 
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Business/) 
  
 <br />
  
@@ -81,7 +81,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 <br />
 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/CSS3_animation/)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/CSS3_Animation/)
  
 </details>
  
