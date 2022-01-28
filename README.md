@@ -66,7 +66,8 @@ I also enjoy working with Photoshop, UI, UX and design in general.
  
 <br />
  
-<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/4dca0863cb26f68d997100effbd174e39ca9c076/TheOldestGold_Prject_preview_1200.gif"> 
+<img align="left" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/zhekovdobri/blob/4dca0863cb26f68d997100effbd174e39ca9c076/TheOldestGold_Prject_preview_1200.gif"> 
 <img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/4dca0863cb26f68d997100effbd174e39ca9c076/Alexandragloss_Project_preview_1200px.gif">
 
 <br />
@@ -77,14 +78,16 @@ I also enjoy working with Photoshop, UI, UX and design in general.
  
 <br />
  
-<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/CSS3Animation_GitHub_GIF_1200px.gif"> 
-<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/Angular-project-Pizza/blob/main/src/assets/images/Angular-project-Pizza1200px.gif">
+<img align="left" alt="HTML5" width="395px" 
+src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/CSS3Animation_GitHub_GIF_1200px.gif"> 
+<img align="right" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/Angular-project-Pizza/blob/main/src/assets/images/Angular-project-Pizza1200px.gif">
 
 <br />
 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-LionClub/)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-Pizza/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-DNB/)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-Animation/)
 
 <br />
  
