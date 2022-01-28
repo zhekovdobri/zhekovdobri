@@ -77,16 +77,14 @@ I also enjoy working with Photoshop, UI, UX and design in general.
  
 <br />
  
-<img align="left" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/CSS3Animation_GitHub_GIF_1200px.gif"> 
-<img align="right" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Angular-project-Pizza/blob/main/src/assets/images/Angular-project-Pizza1200px.gif">
+<img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/CSS3Animation_GitHub_GIF_1200px.gif"> 
+<img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/Angular-project-Pizza/blob/main/src/assets/images/Angular-project-Pizza1200px.gif">
 
 <br />
 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-Pizza/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-Animation/)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-LionClub/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-DNB/)
 
 <br />
  
