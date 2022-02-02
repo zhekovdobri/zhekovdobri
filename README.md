@@ -81,11 +81,11 @@ src="https://github.com/zhekovdobri/zhekovdobri/blob/4dca0863cb26f68d997100effbd
 <img align="left" alt="HTML5" width="400px" 
 src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/CSS3Animation_GitHub_GIF_1200px.gif"> 
 <img align="right" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Angular-project-Pizza/blob/main/src/assets/images/Angular-project-Pizza1200px.gif">
+src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/src/assets/images/Angular-project-Pizza1200px.gif">
 
 <br />
 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-Pizza/)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-Pizza-app/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-Animation/)
 
@@ -94,13 +94,13 @@ src="https://github.com/zhekovdobri/Angular-project-Pizza/blob/main/src/assets/i
 <img align="left" alt="HTML5" width="400px" 
 src="https://github.com/zhekovdobri/Angular-project-LionClub/blob/main/src/assets/images/Angular-project-LionClub1200px.png">
 <img align="right" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Angular-project-DNB/blob/main/src/assets/images/Angular-project-DNB1200px.png">
+src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/Angular-DNB-app1200px.gif">
 
 <br />
 
 [<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-LionClub/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-DNB/)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-DNB-app/home)
  
 </details>
  
