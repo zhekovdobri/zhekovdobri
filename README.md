@@ -92,15 +92,15 @@ src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/src/assets/image
 <br />
  
 <img align="left" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Angular-project-LionClub/blob/main/src/assets/images/Angular-project-LionClub1200px.png">
+src="https://github.com/zhekovdobri/Angular-LionsClubs-app/blob/main/src/assets/images/Angular-LionsClubs-app1200px%20Gif.gif">
 <img align="right" alt="HTML5" width="400px" 
 src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/Angular-DNB-app1200px.gif">
 
 <br />
 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-LionClub/)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-LionsClubs-app/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-DNB-app/home)
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-DNB-app/)
  
 </details>
  
