@@ -9,6 +9,8 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
 <img align="left" alt="CSS3" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b9d0459777128ad0b677ca93fa4e567cde950e5c/css-icon.png">
 <img align="left" alt="JavaScript" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/65e9b2dd7c471fb822301241018b5074c7ebec3c/javascript-icon.png">
+<img align="left" alt="Angular" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/main/angular-icon-logo.png">
+<img align="left" alt="React" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/main/react-1-logo-png-transparent.png">
 <img align="left" alt="Sass" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/bceec05efb29d8aeb9d30c0e5f179baf531fce14/bootstrap_icon.png">
 <img align="left" alt="Sass" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/cf686bf85c9de30996d6f1035c1294be417907e6/php-icon.png">
 <img align="left" alt="Sass" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/d6d462389383e2fb0a44212011d40b6fa8c7abaf/jqueryUI_icon_ps.png">
