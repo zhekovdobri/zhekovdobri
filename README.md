@@ -50,6 +50,13 @@ src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/
 
 <br />
 
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;See more previews</a>    
+</summary>
+ 
+<br />
+
 <img align="left" alt="HTML5" width="400px" 
 src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/CSS3Animation_GitHub_GIF_1200px.gif"> 
 <img align="right" alt="HTML5" width="400px" 
