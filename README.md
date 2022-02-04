@@ -44,9 +44,9 @@ src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/
 
 <br />
 
-[<ins>Angular-LionsClubs-app > Check the entire project</ins>](https://zhekovdobri.github.io/Angular-LionsClubs-app/)
+[<ins>Angular-LionsClubs-app</ins>](https://zhekovdobri.github.io/Angular-LionsClubs-app/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<ins>Angular-DNB-app - Check the entire project</ins>](https://zhekovdobri.github.io/Angular-DNB-app/)
+[<ins>Angular-DNB-app</ins>](https://zhekovdobri.github.io/Angular-DNB-app/)
 
 <br />
 
@@ -64,9 +64,9 @@ src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/src/assets/image
 
 <br />
 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-Pizza-app/)
+[<ins>Angular-Pizza-app</ins>](https://zhekovdobri.github.io/Angular-Pizza-app/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-Animation/)
+[<ins>Angular-project-Animation</ins>](https://zhekovdobri.github.io/Angular-project-Animation/)
 
 <br />
 
@@ -75,9 +75,9 @@ src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/src/assets/image
 
 <br />
 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Fashion/)
+[<ins>Alexandragloss_Homepage_Fashion</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Fashion/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Fragrance/)
+[<ins>Alexandragloss_Homepage_Fragrance</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Fragrance/)
 
 <br />
  
@@ -86,9 +86,9 @@ src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/src/assets/image
 
 <br />
 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Application_Form/)
+[<ins>Application_Form</ins>](https://zhekovdobri.github.io/Application_Form/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Business/) 
+[<ins>Alexandragloss_Homepage_Business</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Business/) 
  
 <br />
  
@@ -98,9 +98,9 @@ src="https://github.com/zhekovdobri/zhekovdobri/blob/4dca0863cb26f68d997100effbd
 
 <br />
 
-[<ins>Check the entire project</ins>](https://theoldestgold.com/)
+[<ins>www.theoldestgold.com/</ins>](https://theoldestgold.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<ins>Check the entire project</ins>](https://alexandragloss.wordpress.com/)
+[<ins>www.alexandragloss.com</ins>](https://alexandragloss.wordpress.com/)
  
 </details>
  
