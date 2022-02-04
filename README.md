@@ -37,6 +37,32 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <br>
 
 ## Projects preview
+<img align="left" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/Angular-LionsClubs-app/blob/main/src/assets/images/Angular-LionsClubs-app1200px%20Gif.gif">
+<img align="right" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/Angular-DNB-app1200px.gif">
+
+<br />
+
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-LionsClubs-app/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-DNB-app/)
+
+<br />
+
+<img align="left" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/CSS3Animation_GitHub_GIF_1200px.gif"> 
+<img align="right" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/src/assets/images/Angular-project-Pizza1200px.gif">
+
+<br />
+
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-Pizza-app/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<ins>Check the entire project</ins>](https://zhekovdobri.github.io/Angular-project-Animation/)
+
+<br />
+
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/BootstrapFashion_Project_preview_1200px.gif">
 <img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/HTMLCSSFashion_Project_preview_1200px.gif">
 
