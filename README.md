@@ -60,17 +60,30 @@ src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/
 <br />
 
 <img align="left" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/React-TaskTracker-app/blob/main/src/components/assets/images/React-TaskTracker1200pxGif.gif"> 
+src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/CSS3Animation_GitHub_GIF_1200px.gif"> 
 <img align="right" alt="HTML5" width="400px" 
 src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/src/assets/images/Angular-project-Pizza_1200px.gif">
 
 <br />
 
-[<ins>React-TaskTracker-app</ins>](https://zhekovdobri.github.io/React-TaskTracker-app/)
+[<ins>Angular-project-Animation</ins>](https://zhekovdobri.github.io/Angular-project-Animation/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [<ins>Angular-Pizza-app</ins>](https://zhekovdobri.github.io/Angular-Pizza-app/)
 
 <br />
+ 
+<img align="left" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/React-TaskTracker-app/blob/main/src/components/assets/images/React-TaskTracker1200pxGif.gif"> 
+<img align="right" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/React-RealEstate-app/blob/main/src/assets/images/React_Real_Estate_GIF1200px.gif">
+
+<br />
+
+[<ins>React-TaskTracker-app</ins>](https://zhekovdobri.github.io/React-TaskTracker-app/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[<ins>React-RealEstate-app</ins>](https://zhekovdobri.github.io/React-RealEstate-app/)
+ 
+<br/>
 
 <img align="left" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/BootstrapFashion_Project_preview_1200px.gif">
 <img align="right" alt="HTML5" width="400px" src="https://github.com/zhekovdobri/zhekovdobri/blob/b82548a8b83cad7eebd4f7a76ba05b56dbad96ee/HTMLCSSFashion_Project_preview_1200px.gif">
