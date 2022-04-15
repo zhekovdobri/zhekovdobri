@@ -79,9 +79,9 @@ src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/src/assets/image
 
 <br />
 
-[<ins>Angular-project-Animation</ins>](https://zhekovdobri.github.io/Angular-project-Animation/)
+[<ins>Angular-project-Animation</ins>](https://github.com/zhekovdobri/Angular-project-Animation)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Angular-Pizza-app</ins>](https://zhekovdobri.github.io/Angular-Pizza-app/)
+[<ins>Angular-Pizza-app</ins>](https://github.com/zhekovdobri/Angular-Pizza-app)
 
 <br />
  
@@ -92,9 +92,9 @@ src="https://github.com/zhekovdobri/React-RealEstate-app/blob/main/src/assets/im
 
 <br />
 
-[<ins>React-TaskTracker-app</ins>](https://zhekovdobri.github.io/React-TaskTracker-app/)
+[<ins>React-TaskTracker-app</ins>](https://github.com/zhekovdobri/React-TaskTracker-app)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>React-RealEstate-app</ins>](https://zhekovdobri.github.io/React-RealEstate-app/)
+[<ins>React-RealEstate-app</ins>](https://github.com/zhekovdobri/React-RealEstate-app)
  
 <br/>
 
@@ -103,9 +103,9 @@ src="https://github.com/zhekovdobri/React-RealEstate-app/blob/main/src/assets/im
 
 <br />
 
-[<ins>Alexandragloss_Homepage_Fashion</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Fashion/)
+[<ins>Alexandragloss_Homepage_Fashion</ins>](https://github.com/zhekovdobri/Alexandragloss_Homepage_Fashion)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Alexandragloss_Homepage_Fragrance</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Fragrance/)
+[<ins>Alexandragloss_Homepage_Fragrance</ins>](https://github.com/zhekovdobri/Alexandragloss_Homepage_Fragrance)
 
 <br />
  
@@ -114,9 +114,9 @@ src="https://github.com/zhekovdobri/React-RealEstate-app/blob/main/src/assets/im
 
 <br />
 
-[<ins>Application_Form</ins>](https://zhekovdobri.github.io/Application_Form/)
+[<ins>Application_Form</ins>](https://github.com/zhekovdobri/Application_Form)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[<ins>Alexandragloss_Homepage_Business</ins>](https://zhekovdobri.github.io/Alexandragloss_Homepage_Business/) 
+[<ins>Alexandragloss_Homepage_Business</ins>](https://github.com/zhekovdobri/Alexandragloss_Homepage_Business) 
  
 <br />
  
