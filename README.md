@@ -40,9 +40,9 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 ## Projects preview
 <img align="left" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/-ASP.NET_Core_BlazorServer_app">
+src="https://github.com/zhekovdobri/-ASP.NET_Core_BlazorServer_app/blob/main/AddIdentity/wwwroot/images/BlazorServer1200px.gif">
 <img align="right" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Csharp_BankAccount_project">
+src="https://github.com/zhekovdobri/Csharp_BankAccount_project/blob/main/Bank_Account1200px.png">
 
 <br />
 
@@ -60,9 +60,9 @@ src="https://github.com/zhekovdobri/Csharp_BankAccount_project">
 <br />
  
 <img align="left" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Angular-LionsClubs-app">
+src="https://github.com/zhekovdobri/Angular-LionsClubs-app/blob/main/src/assets/images/Angular-LionsClubs-app1200px%20Gif.gif">
 <img align="right" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Angular-DNB-app">
+src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/Angular-DNB-app1200px.gif">
 
 <br />
 
