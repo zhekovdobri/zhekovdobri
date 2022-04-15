@@ -40,15 +40,15 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 ## Projects preview
 <img align="left" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Angular-LionsClubs-app/blob/main/src/assets/images/Angular-LionsClubs-app1200px%20Gif.gif">
+src="https://github.com/zhekovdobri/-ASP.NET_Core_BlazorServer_app/blob/main/AddIdentity/wwwroot/images/BlazorServer1200px.gif">
 <img align="right" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/Angular-DNB-app1200px.gif">
+src="https://github.com/zhekovdobri/Csharp_BankAccount_project/blob/main/Bank_Account1200px.png">
 
 <br />
 
-[<ins>Angular-LionsClubs-app</ins>](https://zhekovdobri.github.io/Angular-LionsClubs-app/)
+[<ins>Angular-LionsClubs-app</ins>](https://github.com/zhekovdobri/-ASP.NET_Core_BlazorServer_app)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<ins>Angular-DNB-app</ins>](https://zhekovdobri.github.io/Angular-DNB-app/)
+[<ins>Angular-DNB-app</ins>](https://github.com/zhekovdobri/Csharp_BankAccount_project)
 
 <br />
 
@@ -58,7 +58,20 @@ src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/
 </summary>
  
 <br />
+ 
+<img align="left" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/Angular-LionsClubs-app/blob/main/src/assets/images/Angular-LionsClubs-app1200px%20Gif.gif">
+<img align="right" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/Angular-DNB-app1200px.gif">
 
+<br />
+
+[<ins>Angular-LionsClubs-app</ins>](https://zhekovdobri.github.io/Angular-LionsClubs-app/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<ins>Angular-DNB-app</ins>](https://zhekovdobri.github.io/Angular-DNB-app/)
+ 
+<br />
+ 
 <img align="left" alt="HTML5" width="400px" 
 src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/CSS3Animation_GitHub_GIF_1200px.gif"> 
 <img align="right" alt="HTML5" width="400px" 
