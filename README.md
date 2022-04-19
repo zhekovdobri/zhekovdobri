@@ -74,7 +74,7 @@ src="https://github.com/zhekovdobri/Angular-DNB-app/blob/main/src/assets/images/
 <img align="left" alt="HTML5" width="400px" 
 src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/CSS3Animation_GitHub_GIF_1200px.gif"> 
 <img align="right" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/src/assets/images/Angular-project-Pizza_1200px.gif">
+src="https://github.com/zhekovdobri/Angular-Pizza-app/blob/main/assets/images/Alexander_Pizza1200px.gif">
 
 <br />
 
