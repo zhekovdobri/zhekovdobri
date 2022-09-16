@@ -52,11 +52,6 @@ src="https://github.com/zhekovdobri/Csharp_BankAccount_project/blob/main/Bank_Ac
 
 <br />
 
-
-
-
-<br />
-
 <details>
 <summary>
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;See more previews</a>    
