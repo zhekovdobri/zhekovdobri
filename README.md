@@ -13,7 +13,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="Angular" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/main/angular-icon-logo.png">
 <img align="left" alt="React" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/main/react-1-logo-png-transparent.png">
 <img align="left" alt="React" width="42px" src="https://github.com/zhekovdobri/zhekovdobri/blob/main/NetCore.png?raw=true">
-<img align="left" alt="Sass" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/main/Microsoft_Azure_Logo.png?raw=true">
+<img align="left" alt="Sass" width="42px" src="https://github.com/zhekovdobri/zhekovdobri/blob/main/Microsoft_Azure_Logo.png?raw=true">
 <img align="left" alt="Sass" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/main/BlazorIcon-icon.png">
 <img align="left" alt="Sass" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/main/Telerik%20Progress%20logo.png?raw=true">
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/main/VS-icon.png">
