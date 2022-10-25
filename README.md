@@ -39,16 +39,16 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 
 ## Projects preview
 <img align="left" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/-ASP.NET_Core_BlazorServer_app/blob/main/AddIdentity/wwwroot/images/BlazorServer1200px.gif">
+src="https://raw.githubusercontent.com/zhekovdobri/JavaScript_Gambling_Game/main/Gambling_Game1200.png">
 <img align="right" alt="HTML5" width="400px" 
-src="https://github.com/zhekovdobri/Csharp_BankAccount_project/blob/main/Bank_Account1200px.png">
+src="https://raw.githubusercontent.com/zhekovdobri/JavaScript_Number_Game/aee747726003376a043c9e3758614c8533edd9f0/Number_Game1200.png">
 
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<ins>ASP.NET Core_Blazor Server app</ins>](https://github.com/zhekovdobri/-ASP.NET_Core_BlazorServer_app)
+[<ins>JavaScript Gambling Game</ins>](https://github.com/zhekovdobri/JavaScript_Gambling_Game)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<ins>C# Bank Account project</ins>](https://github.com/zhekovdobri/Csharp_BankAccount_project)
+[<ins>JavaScript Number Game</ins>](https://github.com/zhekovdobri/JavaScript_Number_Game)
 
 <br />
 
