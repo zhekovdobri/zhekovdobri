@@ -2,8 +2,18 @@
 ![Design and Development](https://github.com/zhekovdobri/zhekovdobri/blob/76c06a6ab2ca415e4237b6a41538ce5be077daf8/New_Logo1.png)
 
 # Dobri Zhekov
-I'm full stack web developer who work and live in Norway. I do content on Design and Development as well work with Wordpress. My favorite IDE is VSC.
-I also enjoy working with Photoshop, UI, UX and design in general. 
+The last 12 years I have lived and worked in Norway. In 2006 I graduated with a Bachelor's of Marketing and Management from International College Albena (VUM) Bulgaria. 
+*"The Higher School International College – Albena (ICA) was established in September 1992 under a joint Bulgarian – Dutch PSO project for cooperation of the Dutch government with Central and Eastern European countries.*
+
+Two years later I graduated with another Bachelor's of Business Management from D. A. Tsenov Academy of Economics. 
+*"D. A. Tsenov Academy of Economics" and its Bachelor, Master and Doctoral programmes are accredited by the Bulgarian National Evaluation and Accreditation Agency (NEAA), which is a full member of the European Quality Assurance Register for Higher Education (EQAR) and European Association for Quality Assurance in Higher Education (ENQA). The Academy was approved by the Lloyd’s Register of Quality Assurance in accordance with the ISO standards for quality management. In addition D. A. Tsenov Academy has been awarded Erasmus Charter for Higher Education (ECHE) under the Erasmus+ programme. Its accreditation reference is BG SVISHTO02.*
+
+All my education is approved, recognized by NOKUT (the Norwegian Agency for Quality Assurance in Education). 
+
+Proficiency and experience with the following applications and programs:
+HTML5, CSS3, JavaScript, Bootstrap, Angular, React, ASP.Net Core Blazor, Telerik UI for Blazor, Azure, Adobe Photoshop, Wordpress. 
+
+I have several years of experience as a freelancer - creating and styling web pages using HTML, CSS, Bootstrap and JavaScript. 
 
 ## Skills and Experience 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
