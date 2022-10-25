@@ -41,7 +41,7 @@ I also enjoy working with Photoshop, UI, UX and design in general.
 <img align="left" alt="HTML5" width="400px" 
 src="https://raw.githubusercontent.com/zhekovdobri/JavaScript_Gambling_Game/main/Gambling_Game1200.png">
 <img align="right" alt="HTML5" width="400px" 
-src="https://raw.githubusercontent.com/zhekovdobri/JavaScript_Number_Game/aee747726003376a043c9e3758614c8533edd9f0/Number_Game1200.png">
+src="https://github.com/zhekovdobri/JavaScript_Number_Game/blob/main/Number_Game1200.png?raw=true">
 
 <br />
 
