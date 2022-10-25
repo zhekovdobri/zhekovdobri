@@ -59,6 +59,20 @@ src="https://github.com/zhekovdobri/Csharp_BankAccount_project/blob/main/Bank_Ac
  
 <br />
  
+ <img align="left" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/-ASP.NET_Core_BlazorServer_app/blob/main/AddIdentity/wwwroot/images/BlazorServer1200px.gif">
+<img align="right" alt="HTML5" width="400px" 
+src="https://github.com/zhekovdobri/Csharp_BankAccount_project/blob/main/Bank_Account1200px.png">
+
+<br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<ins>ASP.NET Core_Blazor Server app</ins>](https://github.com/zhekovdobri/-ASP.NET_Core_BlazorServer_app)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<ins>C# Bank Account project</ins>](https://github.com/zhekovdobri/Csharp_BankAccount_project)
+
+<br />
+ 
 <img align="left" alt="HTML5" width="400px" 
 src="https://github.com/zhekovdobri/Angular-LionsClubs-app/blob/main/src/assets/images/Angular-LionsClubs-app1200px%20Gif.gif">
 <img align="right" alt="HTML5" width="400px" 
