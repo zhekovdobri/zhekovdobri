@@ -4,7 +4,8 @@
 # Dobri Zhekov
 Hi. I'm Dobri Zhekov. I am an educated Full Stack (Front-End/Back End) Web Developer with 189 credits, which is equivalent to a bachelor's degree based on the Norwegian education system. My final exam is passed with a grade of 6, which is the maximum score a student can get in some European countries such as Norway, Switzerland, Poland, Bulgaria.  
 
-The last 12 years I have lived and worked in Norway. In 2006 I graduated with a Bachelor's of Marketing and Management from International College Albena (VUM) Bulgaria.  
+The last 12 years I have lived and worked in Norway. In 2006 I graduated with a Bachelor's of Marketing and Management from International College Albena (VUM) Bulgaria.
+
 *"The Higher School International College – Albena (ICA) was established in September 1992 under a joint Bulgarian – Dutch PSO project for cooperation of the Dutch government with Central and Eastern European countries.*
 
 Two years later I graduated with another Bachelor's of Business Management from D. A. Tsenov Academy of Economics.  
@@ -15,7 +16,7 @@ All my education is approved, recognized by NOKUT (the Norwegian Agency for Qua
 Proficiency and experience with the following applications and programs:
 HTML5, CSS3, JavaScript, Bootstrap, Angular, React, ASP.Net Core Blazor, Telerik UI for Blazor, Azure, Adobe Photoshop, Wordpress. 
 
-I have several years of experience as a freelancer - creating and styling web pages using HTML, CSS, Bootstrap and JavaScript. 
+I have several years of experience as a freelancer - creating and styling web pages using HTML, CSS, Bootstrap and JavaScript. Last I worked for Frantz AS as a Front End Developer. There I created the front-end part of the Frantz business site using ASP.NET Core Blazor server, Progress Telerik UI for Blazor and Bootstrap.
 
 ## Skills and Experience 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
