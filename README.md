@@ -2,9 +2,13 @@
 ![Design and Development](https://github.com/zhekovdobri/zhekovdobri/blob/76c06a6ab2ca415e4237b6a41538ce5be077daf8/New_Logo1.png)
 
 # Dobri Zhekov
-The last 12 years I have lived and worked in Norway. In 2006 I graduated with a Bachelor's of Marketing and Management from International College Albena (VUM) Bulgaria.  *"The Higher School International College – Albena (ICA) was established in September 1992 under a joint Bulgarian – Dutch PSO project for cooperation of the Dutch government with Central and Eastern European countries.*
+Hi. I'm Dobri Zhekov. I am an educated Full Stack (Front-End/Back End) Web Developer with 189 credits, which is equivalent to a bachelor's degree based on the Norwegian education system. My final exam is passed with a grade of 6, which is the maximum score a student can get in some European countries such as Norway, Switzerland, Poland, Bulgaria.  
 
-Two years later I graduated with another Bachelor's of Business Management from D. A. Tsenov Academy of Economics.  *"D. A. Tsenov Academy of Economics" and its Bachelor, Master and Doctoral programmes are accredited by the Bulgarian National Evaluation and Accreditation Agency (NEAA), which is a full member of the European Quality Assurance Register for Higher Education (EQAR) and European Association for Quality Assurance in Higher Education (ENQA). The Academy was approved by the Lloyd’s Register of Quality Assurance in accordance with the ISO standards for quality management. In addition D. A. Tsenov Academy has been awarded Erasmus Charter for Higher Education (ECHE) under the Erasmus+ programme. Its accreditation reference is BG SVISHTO02.*
+The last 12 years I have lived and worked in Norway. In 2006 I graduated with a Bachelor's of Marketing and Management from International College Albena (VUM) Bulgaria.  
+*"The Higher School International College – Albena (ICA) was established in September 1992 under a joint Bulgarian – Dutch PSO project for cooperation of the Dutch government with Central and Eastern European countries.*
+
+Two years later I graduated with another Bachelor's of Business Management from D. A. Tsenov Academy of Economics.  
+*"D. A. Tsenov Academy of Economics" and its Bachelor, Master and Doctoral programmes are accredited by the Bulgarian National Evaluation and Accreditation Agency (NEAA), which is a full member of the European Quality Assurance Register for Higher Education (EQAR) and European Association for Quality Assurance in Higher Education (ENQA). The Academy was approved by the Lloyd’s Register of Quality Assurance in accordance with the ISO standards for quality management. In addition D. A. Tsenov Academy has been awarded Erasmus Charter for Higher Education (ECHE) under the Erasmus+ programme. Its accreditation reference is BG SVISHTO02.*
 
 All my education is approved, recognized by NOKUT (the Norwegian Agency for Quality Assurance in Education). 
 
