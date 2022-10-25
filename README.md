@@ -12,9 +12,6 @@ Two years later I graduated with another Bachelor's of Business Management from�
 
 All my education is approved, recognized by NOKUT (the Norwegian Agency for Quality Assurance in Education). 
 
-Proficiency and experience with the following applications and programs:
-HTML5, CSS3, JavaScript, Bootstrap, Angular, React, ASP.Net Core Blazor, Telerik UI for Blazor, Azure, Adobe Photoshop, Wordpress. 
-
 I have several years of experience as a freelancer - creating and styling web pages using HTML, CSS, Bootstrap and JavaScript. Last I worked for Frantz AS as a Front End Developer. There I created the front-end part of the Frantz business site using ASP.NET Core Blazor server, Progress Telerik UI for Blazor and Bootstrap.
 
 ## Skills and Experience 
