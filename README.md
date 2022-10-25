@@ -4,7 +4,7 @@
 # Dobri Zhekov
 Hi. I'm Dobri Zhekov. I am an educated Full Stack (Front-End/Back End) Web Developer with 189 credits, which is equivalent to a bachelor's degree based on the Norwegian education system. My final exam is passed with a grade of 6, which is the maximum score a student can get in some European countries such as Norway, Switzerland, Poland, Bulgaria.  
 
-The last 12 years I have lived and worked in Norway. In 2006 I graduated with a Bachelor's of Marketing and Management from International College Albena (VUM) Bulgaria.
+The last 12 years I have lived and worked in Norway. In 2006 I graduated with a Bachelor's of Marketing and Management from International College Albena (VUM) Bulgaria.  
 *"The Higher School International College – Albena (ICA) was established in September 1992 under a joint Bulgarian – Dutch PSO project for cooperation of the Dutch government with Central and Eastern European countries.*
 
 Two years later I graduated with another Bachelor's of Business Management from D. A. Tsenov Academy of Economics.  
