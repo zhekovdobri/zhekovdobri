@@ -1,5 +1,5 @@
 #### Design and Development
-![Design and Development](https://raw.githubusercontent.com/zhekovdobri/zhekovdobri/e51886832d52147d3dc5cba0826ec2af0de468f2/GitHub%20logo%20trading.png)
+![Design and Development]()
 
 # Dobri Zhekov
 Hi. My name is Dobri Z. Jensen I am an educated Full Stack (Front-End/Back End) Web Developer with 189 credits, which is equivalent to a bachelor's degree based on the Norwegian education system. My final exam is passed with a grade of 6, which is the maximum score a student can get in some European countries such as Norway, Switzerland, Poland, Bulgaria.  
