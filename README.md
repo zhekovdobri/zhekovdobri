@@ -12,7 +12,7 @@ Two years later I graduated with another Bachelor's of Business Management from�
 
 All my education is approved, recognized by NOKUT (the Norwegian Agency for Quality Assurance in Education). 
 
-I have several years of experience as a freelancer - creating and styling web pages using HTML, CSS, Bootstrap and JavaScript. Last I worked for Frantz AS as a Front End Developer. There I created the front-end part of the Frantz business site using ASP.NET Core Blazor server, Progress Telerik UI for Blazor and Bootstrap.
+I have several years of experience as a freelancer - creating and styling web pages using HTML, CSS, Bootstrap and JavaScript. Last I worked for Frantz AS as a Front End Developer. There I created the front-end part of the Frantz business website using ASP.NET Core Blazor server, Progress Telerik UI for Blazor and Bootstrap.
 
 ## Skills and Experience 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
