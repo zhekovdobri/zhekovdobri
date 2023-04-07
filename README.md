@@ -2,17 +2,9 @@
 ![Design and Development](https://github.com/zhekovdobri/zhekovdobri/blob/main/Bergen%20Logo.png?raw=true)
 
 # Dobri Zhekov
-My name is Dobri Zhekov and I am an educated Full Stack (Front-End/Back End) Web Developer with 189 credits, which is equivalent to a bachelor's degree based on the Norwegian education system. My final exam is passed with a grade of 6, which is the maximum score a student can get in some countries in Europa - such as Norway, Switzerland, Poland and Bulgaria.  
+My name is Dobri Z. Jensen and I am an educated Full Stack (Front-End/Back End) developer. The last 13 years I have lived and worked in Norway. Then in 2019 I gained my Norwegian citizenship and passport. I am currently located in Oslo. 
 
-The last 12 years I have lived and worked in Norway. In 2006 I graduated with a Bachelor's of Marketing and Management from International College Albena (VUM) Bulgaria.  
-*"The Higher School International College – Albena (ICA) was established in September 1992 under a joint Bulgarian – Dutch PSO project for cooperation of the Dutch government with Central and Eastern European countries.*
-
-Two years later I graduated with another Bachelor's of Business Management from D. A. Tsenov Academy of Economics.  
-*"D. A. Tsenov Academy of Economics" and its Bachelor, Master and Doctoral programs are accredited by the Bulgarian National Evaluation and Accreditation Agency (NEAA), which is a full member of the European Quality Assurance Register for Higher Education (EQAR) and European Association for Quality Assurance in Higher Education (ENQA). The Academy was approved by the Lloyd’s Register of Quality Assurance in accordance with the ISO standards for quality management. In addition D. A. Tsenov Academy has been awarded Erasmus Charter for Higher Education (ECHE) under the Erasmus program. Its accreditation reference is BG SVISHTO02.*
-
-All my education is approved, recognized by NOKUT (the Norwegian Agency for Quality Assurance in Education). 
-
-I have several years of experience as a freelancer - creating and styling web pages using HTML, CSS, Bootstrap and JavaScript. Last I worked for Frantz AS as a Front End Developer. There I created the front-end part of the Frantz business website using ASP.NET Core Blazor server, Progress Telerik UI for Blazor and Bootstrap.
+My first touch and inspiration with code writing was in 2016, when I created my first web page - changing the entire code and adding my personal one to the popular Norwegian blog Hosting Provider.
 
 ## Skills and Experience 
 <img align="left" alt="HTML5" width="32px" src="https://github.com/zhekovdobri/zhekovdobri/blob/7d2f599052a842b6409031e696a6a570bf1c50b8/html-icon.png">
