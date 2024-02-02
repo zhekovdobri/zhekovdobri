@@ -1,0 +1,58 @@
+[
+  {
+    "id": 99984,
+    "name": {
+      "first": "Isaac",
+      "last": "Owens"
+    },
+    "age": 49,
+    "street": "Evuzit Junction",
+    "city": "Unaguco",
+    "state": "ID",
+    "latitude": 80.22231,
+    "longitude": 14.41771,
+    "ccnumber": 5018730000000000
+  },
+  {
+    "id": 99985,
+    "name": {
+      "first": "Jon",
+      "last": "McGuire"
+    },
+    "age": 18,
+    "street": "Wopboz Center",
+    "city": "Kiluusa",
+    "state": "TX",
+    "latitude": 59.63233,
+    "longitude": -78.15134,
+    "ccnumber": 4026220000000000
+  },
+  {
+    "id": 9,
+    "name": {
+      "first": "Angel",
+      "last": "Little"
+    },
+    "age": 32,
+    "street": "Luwji Center",
+    "city": "Kiktifeg",
+    "state": "OH",
+    "latitude": 3.71113,
+    "longitude": -168.31391,
+    "ccnumber": 6334010000000000
+  },
+  {
+    "id": 10,
+    "name": {
+      "first": "George",
+      "last": "Martin"
+    },
+    "age": 64,
+    "street": "Feib Court",
+    "city": "Hedtova",
+    "state": "RI",
+    "latitude": -16.41015,
+    "longitude": 131.58977,
+    "ccnumber": 6374410000000000
+  }
+]
