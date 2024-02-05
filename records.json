@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "first": "Isaac",
+      "last": "Owens"
+    },
+    "icon": "images/logo-1.png",
+    "alias": "SAMARAS Vasileos",
+    "caption": "Icon 1",
+    "sex": "male",
+    "eye colour": "brown",
+    "date of birth": "June 5, 1975 (49 years)",
+    "natioanality": "Unated States",
+    "state of case": "Sentenced to 18 years of prison",
+    "published": "on September 17, 2023, last modified on September 20, 2023",
+    "info": "Haredin has Albanian nationality and was sentenced to 9 years and 4 years in prison by the Brussels Court of First Instance and 5 years by the Brussels Court of Appeal for offences of drug trafficking and membership of a criminal organisation. (18 years' imprisonment in total). If you have seen Haredin FEJZULLA or know his whereabouts, please contact the police at opsporingen@police.belgium.eu. You can testify by calling the free number 0800 30 30 0. You can read the message at www.politie.be.",
+    "National wanted site reference": "Belgium's Most Wanted List"
+  },
+  {
+    "id": 2,
+    "name": {
+      "first": "Marzia",
+      "last": "Marimar"
+    },
+    "icon": "images/logo-2.png",
+    "alias": "Marzia Marimar",
+    "caption": "Icon 2",
+    "sex": "female",
+    "eye colour": "Green",
+    "date of birth": "April 15, 1998 (26 years)",
+    "natioanality": "Unated States",
+    "state of case": "Sentenced to 8 years of prison",
+    "published": "on September 1, 2022, last modified on September 20, 2023",
+    "info": "In August 2019, Marzia Marimar Calleja Maatouk was stopped by the police and was found to be in possession of narcotics in circumstances denoting that they were not for her personal use. She was subsequently charged in September 2019 with possession with intent to supply. Marzia Marimar Maatouk Calleja, was sentenced in July 2023 to 15 months imprisonment and to pay €3,500.00 in court fees and fine. This sentence was appealed, however Calleja Maatouk, absconded from the Maltese islands. According to latest intelligence Marzia Marimar is accompanied by her husband Jomic Calleja Maatouk, who is also wanted on a different case.",
+    "National wanted site reference": "Europe's Most Wanted List"
+  },
+  {
+    "id": 3,
+    "name": {
+      "first": "Jon",
+      "last": "McGuire"
+    },
+    "icon": "images/logo-3.png",
+    "alias": "Paul Freeman",
+    "caption": "Icon 3",
+    "sex": "male",
+    "eye colour": "black",
+    "date of birth": "June 5, 1991 (33 years)",
+    "natioanality": "Unated States",
+    "state of case": "Sentenced to 13 years of prison",
+    "published": "on January 17, 2020, last modified on July 10, 2023",
+    "info": "The wanted person was sentenced to 13 years of imprisonment for drug offenses. Between 2015 and 2016 (as a minimum), when being a member of an crime organised group operating (at least) in the Czech Republic and Switzerland, he deliberately participated in the distribution, supply and sale of drugs. In particular, he was in charge of purchasing and direct sale of drugs plus he coordinated drug couriers and all related communication with other persons and groups involved in the drug-related crime. The competent judicial authority in the Czech Republic issued the European arrest warrant against him.",
+    "National wanted site reference": "Germany's Most Wanted List"
+  },
+  {
+    "id": 4,
+    "name": {
+      "first": "George",
+      "last": "Martin"
+    },
+    "icon": "images/logo-4.png",
+    "alias": "SAMARAS Vasileos",
+    "caption": "Icon 4",
+    "sex": "male",
+    "eye colour": "brown",
+    "date of birth": "December 30, 1960 (64 years)",
+    "natioanality": "Unated States",
+    "state of case": "Sentenced to 18 years of prison",
+    "published": "on September 17, 2023, last modified on September 20, 2023",
+    "info": "George is suspected of the murder of three persons. On the night of 9/10 July 2021, acting in a single act, with motives deserving of particular condemnation, with the direct intention of depriving his brother, brother's wife and their child of their lives, committed the murder of the said three persons using a firearm.",
+    "National wanted site reference": "Europe's Most Wanted List"
+  }
+]
