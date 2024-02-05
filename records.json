@@ -5,7 +5,7 @@
       "first": "Isaac",
       "last": "Owens"
     },
-    "icon": "images/logo-1.png",
+    "picture": "./assets/images/1.png",
     "alias": "SAMARAS Vasileos",
     "caption": "Icon 1",
     "sex": "male",
@@ -23,7 +23,7 @@
       "first": "Marzia",
       "last": "Marimar"
     },
-    "icon": "images/logo-2.png",
+    "picture": "./assets/images/2.png",
     "alias": "Marzia Marimar",
     "caption": "Icon 2",
     "sex": "female",
@@ -41,7 +41,7 @@
       "first": "Jon",
       "last": "McGuire"
     },
-    "icon": "images/logo-3.png",
+    "picture": "./assets/images/3.png",
     "alias": "Paul Freeman",
     "caption": "Icon 3",
     "sex": "male",
@@ -59,7 +59,7 @@
       "first": "George",
       "last": "Martin"
     },
-    "icon": "images/logo-4.png",
+    "picture": "./assets/images/4.png",
     "alias": "SAMARAS Vasileos",
     "caption": "Icon 4",
     "sex": "male",
